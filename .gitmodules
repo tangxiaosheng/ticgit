@@ -1,0 +1,3 @@
+[submodule "git-cola"]
+	path = git-cola
+	url = https://github.com/tangxiaosheng/git-cola.git
